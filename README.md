@@ -6,7 +6,6 @@
 <li>PlugData (PureData overhaul).</li>
 <li>Processing 4.0 or more.</li>
 </ul>
-___
 Contents:
 <ul>
 <li>Showcase Project → Ableton Project with a showcase of an automated visual. Ableton Project With a Drum Rack to test.</li>
