@@ -1,0 +1,8 @@
+#N canvas 827 239 527 327 12;
+#X obj 44 329 playhead, f 23;
+#X floatatom 170 374 5 0 0 2 empty - - 12;
+#X msg 14 279 connect localhost 12000, f 27;
+#X obj 14 419 else/osc.send 12000, f 28;
+#X connect 0 5 1 0 empty;
+#X connect 1 0 3 0 32.................I....T1+++eB....k8+++uA....;
+#X connect 2 0 3 0 32.................n..........J.........fG....;
